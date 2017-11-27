@@ -13,5 +13,5 @@ Feature:
     And add the cheapest item to the basket
     Then I should see total price in the basket
 
-
+#Test GITHUB
 
